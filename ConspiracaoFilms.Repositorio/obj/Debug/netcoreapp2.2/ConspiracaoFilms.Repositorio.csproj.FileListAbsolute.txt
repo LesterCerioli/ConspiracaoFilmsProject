@@ -7,3 +7,12 @@ C:\Users\Administrator\source\repos\ConspiracaoFilms\ConspiracaoFilms.Repositori
 C:\Users\Administrator\source\repos\ConspiracaoFilms\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.AssemblyInfo.cs
 C:\Users\Administrator\source\repos\ConspiracaoFilms\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.dll
 C:\Users\Administrator\source\repos\ConspiracaoFilms\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.pdb
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Repositorio\bin\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.deps.json
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Repositorio\bin\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.dll
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Repositorio\bin\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.pdb
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.csprojAssemblyReference.cache
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.csproj.CoreCompileInputs.cache
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.AssemblyInfoInputs.cache
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.AssemblyInfo.cs
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.dll
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.pdb

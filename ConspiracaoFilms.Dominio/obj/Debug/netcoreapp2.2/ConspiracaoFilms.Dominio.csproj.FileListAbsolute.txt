@@ -7,3 +7,12 @@ C:\Users\Administrator\source\repos\ConspiracaoFilms\ConspiracaoFilms.Dominio\ob
 C:\Users\Administrator\source\repos\ConspiracaoFilms\ConspiracaoFilms.Dominio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Dominio.AssemblyInfo.cs
 C:\Users\Administrator\source\repos\ConspiracaoFilms\ConspiracaoFilms.Dominio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Dominio.dll
 C:\Users\Administrator\source\repos\ConspiracaoFilms\ConspiracaoFilms.Dominio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Dominio.pdb
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Dominio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Dominio.csprojAssemblyReference.cache
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Dominio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Dominio.csproj.CoreCompileInputs.cache
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Dominio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Dominio.AssemblyInfoInputs.cache
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Dominio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Dominio.AssemblyInfo.cs
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Dominio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Dominio.dll
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Dominio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Dominio.pdb
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Dominio\bin\Debug\netcoreapp2.2\ConspiracaoFilms.Dominio.deps.json
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Dominio\bin\Debug\netcoreapp2.2\ConspiracaoFilms.Dominio.dll
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Dominio\bin\Debug\netcoreapp2.2\ConspiracaoFilms.Dominio.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\ConspiracaoFilms\\ConspiracaoFilms.Dominio\\ConspiracaoFilms.Dominio.csproj": {}
+    "E:\\Azure Devops\\Novo Projeto Azure\\ConspiracaoFilms.Dominio\\ConspiracaoFilms.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\ConspiracaoFilms\\ConspiracaoFilms.Dominio\\ConspiracaoFilms.Dominio.csproj": {
+    "E:\\Azure Devops\\Novo Projeto Azure\\ConspiracaoFilms.Dominio\\ConspiracaoFilms.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\ConspiracaoFilms\\ConspiracaoFilms.Dominio\\ConspiracaoFilms.Dominio.csproj",
+        "projectUniqueName": "E:\\Azure Devops\\Novo Projeto Azure\\ConspiracaoFilms.Dominio\\ConspiracaoFilms.Dominio.csproj",
         "projectName": "ConspiracaoFilms.Dominio",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\ConspiracaoFilms\\ConspiracaoFilms.Dominio\\ConspiracaoFilms.Dominio.csproj",
+        "projectPath": "E:\\Azure Devops\\Novo Projeto Azure\\ConspiracaoFilms.Dominio\\ConspiracaoFilms.Dominio.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\ConspiracaoFilms\\ConspiracaoFilms.Dominio\\obj\\",
+        "outputPath": "E:\\Azure Devops\\Novo Projeto Azure\\ConspiracaoFilms.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

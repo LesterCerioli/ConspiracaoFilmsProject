@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\ConspiracaoFilms\\ConspiracaoFilms.Repositorio\\ConspiracaoFilms.Repositorio.csproj",
+      "projectUniqueName": "E:\\Azure Devops\\Novo Projeto Azure\\ConspiracaoFilms.Repositorio\\ConspiracaoFilms.Repositorio.csproj",
       "projectName": "ConspiracaoFilms.Repositorio",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\ConspiracaoFilms\\ConspiracaoFilms.Repositorio\\ConspiracaoFilms.Repositorio.csproj",
+      "projectPath": "E:\\Azure Devops\\Novo Projeto Azure\\ConspiracaoFilms.Repositorio\\ConspiracaoFilms.Repositorio.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\ConspiracaoFilms\\ConspiracaoFilms.Repositorio\\obj\\",
+      "outputPath": "E:\\Azure Devops\\Novo Projeto Azure\\ConspiracaoFilms.Repositorio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
