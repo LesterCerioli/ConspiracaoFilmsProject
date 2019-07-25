@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\ConspiracaoFilms\ConspiracaoFilms.Repositorio\bin\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.deps.json
+C:\Users\Administrator\source\repos\ConspiracaoFilms\ConspiracaoFilms.Repositorio\bin\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.dll
+C:\Users\Administrator\source\repos\ConspiracaoFilms\ConspiracaoFilms.Repositorio\bin\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.pdb
+C:\Users\Administrator\source\repos\ConspiracaoFilms\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConspiracaoFilms\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConspiracaoFilms\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConspiracaoFilms\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConspiracaoFilms\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.dll
+C:\Users\Administrator\source\repos\ConspiracaoFilms\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.pdb
