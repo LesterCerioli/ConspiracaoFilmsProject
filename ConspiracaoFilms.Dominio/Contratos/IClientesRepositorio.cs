@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ConspiracaoFilms.Dominio.Contratos
 {
-    interface IClientesRepositorio : IBaseRepositorio<Clientes>
+    public interface IClientesRepositorio : IBaseRepositorio<Clientes>
     {
     }
 }
