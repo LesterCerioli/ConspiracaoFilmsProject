@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sat Jul 27 2019 11:33:54 GMT-0300 (Brasilia Standard Time)
+------------------------------------------------------
+
+Modified files:
+* ConspiracaoFilms.Web/Startup.cs
+
+
+Created files:
+* .autogit/logs/log-27-6-2019-11-1-19.txt
+
+
+Deleted files:
+
+
+Renamed files:
