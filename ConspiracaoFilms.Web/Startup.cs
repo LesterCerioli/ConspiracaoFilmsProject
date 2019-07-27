@@ -27,7 +27,7 @@ namespace ConspiracaoFilms.Web
 
             
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-            services.AddDbContext<>
+            services.AddDbContext<ConspiracaoFilmsContext>
 
             // In production, the Angular files will be served from this directory
             services.AddSpaStaticFiles(configuration =>
