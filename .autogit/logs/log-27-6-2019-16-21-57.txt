@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sat Jul 27 2019 16:21:57 GMT-0300 (Brasilia Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-27-6-2019-12-34-45.txt
+
+
+Deleted files:
+
+
+Renamed files:
