@@ -16,3 +16,6 @@ E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Repositorio\obj\Debug\netcor
 E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.AssemblyInfo.cs
 E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.dll
 E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.pdb
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Repositorio\bin\Debug\netcoreapp2.2\ConspiracaoFilms.Dominio.dll
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Repositorio\bin\Debug\netcoreapp2.2\ConspiracaoFilms.Dominio.pdb
+E:\Azure Devops\Novo Projeto Azure\ConspiracaoFilms.Repositorio\obj\Debug\netcoreapp2.2\ConspiracaoFilms.Repositorio.csproj.CopyComplete
